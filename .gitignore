@@ -13,7 +13,9 @@
 # Session Data files
 .RData
 .RDataTmp
-.Cleansetup.Rmd
+
+# Ignore specific files
+R/scr/Cleansetup.Rmd
 
 # User-specific files
 .Ruserdata
