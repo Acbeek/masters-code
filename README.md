@@ -1,6 +1,6 @@
 # My Project For Setting Up Your Cleaned Survey Database 
 
-This project is designd for a specific database (rows and colluns), but might still be of use for quick cleaning and setting up. 
+This project code is designd to handle specific database (rows and collunms), but might still be of use for quick cleaning and setting up. 
 It is also aimed to help with a with a optimal research workflow.
 
 ## Usage
@@ -9,6 +9,10 @@ Click "Use this template" at the top of this page to create a new repository wit
 ***Also make a new R- workspace and save it in the main folder (the folder above docs, data, results.....etc***)
 
 # Packages
+
+install.packages("renv")
+followed by
+
 use renv::restore()
 
 - brew         [* -> 1.0-10]
